@@ -1,0 +1,6 @@
+visualizer_path: "/usr/local/bin/mmdc"  # путь к программе для визуализации
+package: "curl"  # имя анализируемого пакета
+output_path: "./dependencies_graph.png"  # путь к файлу с графом
+max_depth: 2  # максимальная глубина анализа зависимостей
+
+
